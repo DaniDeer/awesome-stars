@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [angular](#angular)
@@ -28,6 +29,7 @@
 - [cli](#cli)
 - [cloud](#cloud)
 - [coding](#coding)
+- [command-line](#command-line)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data-visualization](#data-visualization)
@@ -47,6 +49,7 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [http](#http)
@@ -98,6 +101,11 @@
 - [windows](#windows)
 - [xml](#xml)
 - [youtube](#youtube)
+
+## agent 
+
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 
 ## ai 
 
@@ -227,6 +235,10 @@
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
+## command-line 
+
+- [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
+
 ## css 
 
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -342,6 +354,10 @@
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+
+## gui 
+
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 
 ## hacktoberfest 
 
