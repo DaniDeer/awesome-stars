@@ -79,6 +79,7 @@
 - [programming](#programming)
 - [python](#python)
 - [python3](#python3)
+- [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [rest-api](#rest-api)
@@ -554,6 +555,11 @@
 
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+## rag 
+
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 
 ## raspberry-pi 
 
