@@ -146,6 +146,7 @@
 
 ## arduino 
 
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 
 ## artificial-intelligence 
@@ -352,6 +353,7 @@
 
 ## go 
 
+- [wagslane/go-rabbitmq](https://github.com/wagslane/go-rabbitmq) - A wrapper of streadway/amqp that provides reconnection logic and sane defaults
 - [alexedwards/argon2id](https://github.com/alexedwards/argon2id) - Argon2id password hashing and verification for Go
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
@@ -363,6 +365,7 @@
 
 ## golang 
 
+- [wagslane/go-rabbitmq](https://github.com/wagslane/go-rabbitmq) - A wrapper of streadway/amqp that provides reconnection logic and sane defaults
 - [alexedwards/argon2id](https://github.com/alexedwards/argon2id) - Argon2id password hashing and verification for Go
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
