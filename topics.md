@@ -135,7 +135,7 @@
 
 ## agent 
 
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 
 ## agents 
@@ -152,7 +152,7 @@
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - Build, Manage and Deploy AI/ML Systems
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
@@ -160,6 +160,7 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
 
 ## ai-agents 
 
@@ -260,7 +261,7 @@
 
 ## chatgpt 
 
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 
@@ -274,7 +275,7 @@
 
 ## cli 
 
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -287,7 +288,6 @@
 
 - [stackitcloud/terraform-provider-stackit](https://github.com/stackitcloud/terraform-provider-stackit) - The official Terraform provider for STACKIT
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 
 ## cms 
@@ -305,7 +305,7 @@
 
 ## config 
 
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 
 ## css 
 
@@ -325,7 +325,7 @@
 
 ## data-structures 
 
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 
 ## data-visualization 
 
@@ -381,7 +381,6 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
@@ -465,7 +464,7 @@
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [robinson/gos7](https://github.com/robinson/gos7) - Implementation of Siemens S7 protocol in golang
@@ -489,7 +488,7 @@
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [robinson/gos7](https://github.com/robinson/gos7) - Implementation of Siemens S7 protocol in golang
@@ -566,7 +565,7 @@
 
 ## json 
 
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
@@ -645,7 +644,7 @@
 
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -686,7 +685,7 @@
 
 ## openai 
 
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -945,7 +944,7 @@
 
 ## xml 
 
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 
 ## youtube 
