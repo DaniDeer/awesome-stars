@@ -33,6 +33,7 @@
 - [cms](#cms)
 - [coding](#coding)
 - [command-line](#command-line)
+- [compiler](#compiler)
 - [config](#config)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -99,6 +100,7 @@
 - [postgresql](#postgresql)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [prompt-engineering](#prompt-engineering)
 - [pwa](#pwa)
 - [python](#python)
@@ -307,6 +309,10 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 
+## compiler 
+
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
+
 ## config 
 
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
@@ -492,6 +498,7 @@
 
 ## golang 
 
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -779,6 +786,10 @@
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [runtimevic/OOP-IEC61131-3--Curso-Youtube](https://github.com/runtimevic/OOP-IEC61131-3--Curso-Youtube) - Programación Orientada a Objetos OOP IEC61131-3 PLC Curso Youtube Runtimevic
+
+## programming-language 
+
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 
 ## prompt-engineering 
 
