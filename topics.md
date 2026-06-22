@@ -682,7 +682,7 @@
 
 ## mobile 
 
-- [ellanetworks/core](https://github.com/ellanetworks/core) - Ella Core is a 5G core designed for private networks.
+- [ellanetworks/core](https://github.com/ellanetworks/core) - Ella Core is a mobile core designed for private networks.
 
 ## mysql 
 
