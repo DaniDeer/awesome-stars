@@ -86,7 +86,7 @@
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
-- [ellanetworks/core](https://github.com/ellanetworks/core) - Ella Core is a 5G core designed for private networks.
+- [ellanetworks/core](https://github.com/ellanetworks/core) - Ella Core is a mobile core designed for private networks.
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
 - [joamaki/goreactive](https://github.com/joamaki/goreactive) - Reactive streams in Go
